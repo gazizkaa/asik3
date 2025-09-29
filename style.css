@@ -23,12 +23,12 @@ body {
   border-radius: 0 0 12px 12px;
 }
 
-.logo {
-  font-size: 28px;
-  font-weight: bold;
-  color: #ff4081;
-}
 
+.logo img {
+  height: 50px;    
+  width: auto;    
+  display: block;
+}
 .nav-links {
   display: flex;
   gap: 25px;
